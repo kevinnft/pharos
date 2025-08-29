@@ -18,8 +18,8 @@ Mendukung banyak wallet sekaligus (multi-wallet parallel).
 ## ⚡ Instalasi
 1. Clone repo:
    ```bash
-   git clone https://github.com/username/pharos-bot.git
-   cd pharos-bot
+   git clone https://github.com/kevinnft/pharos
+   cd pharos
    ```
 
 2. Install dependency:
