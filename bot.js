@@ -1,6 +1,6 @@
-import { ethers } from "ethers";
-import fs from "fs";
-import readlineSync from "readline-sync";
+const { ethers } = require("ethers");
+const fs = require("fs");
+const readlineSync = require("readline-sync");
 
 const RPC = "https://testnet.dplabs-internal.com";
 const provider = new ethers.JsonRpcProvider(RPC);
